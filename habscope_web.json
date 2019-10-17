@@ -1,0 +1,8 @@
+{
+  "counties" : ["Pinellas", "Lee"],
+  "map_coords" : [27.3, -82.65],
+  "map_zoom" : 8,
+  "tileLayer" : "https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}",
+  "attribution" : "Tiles &copy; National Geographic, Esri",
+  " maxZoom" : 16
+}
