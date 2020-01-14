@@ -1,0 +1,61 @@
+{
+  "metadata" : {
+    "location" : {
+      "location_name" : "BG-1",
+      "coordinates" : [-82.4611,27.10713]
+    },
+    "units" : {
+      "Temperature" : "Degrees C",
+      "Dissolved Oxygen" : "mg/L",
+      "Total Dissolved Solids" : "ppt",
+      "Salinity" : "ppt"
+  },
+  "report_properties" : {
+    "tz" : "EST",
+    "location_name" : "BG-1",
+    "start_time" : "019-11-19T14:23:00",
+    "duration_seconds" : 58,
+    "readings" : 30
+  },
+  "instruments" : [
+    {
+      "device_model" : "Aqua Troll 600 Vented",
+      "device_SN" : 676121
+    },
+    {
+      "device_model" : "In-Situ Bluetooth Device",
+      "device_SN" : 674217
+    }
+  ]
+},
+"log_lines" :
+  [
+    {
+      "timestamp" : "2019-11-19T14:23:00",
+      "Temperature" : 29.85,
+      "Dissolved Oxygen" : 4.008901,
+      "Oxygen Saturation" : 58.64,
+      "Salinity" : 23.55,
+      "Total Dissolved Solids" :  25.99,
+      "Depth" : 3.8
+    },
+    {
+      "timestamp" : "2019-11-19T14:23:10",
+      "Temperature" : 29.83,
+      "Dissolved Oxygen" : 4.008901,
+      "Oxygen Saturation" : 58.64,
+      "Salinity" : 23.55,
+      "Total Dissolved Solids" :  25.99,
+      "Depth" : 4.8
+    },
+    {
+      "timestamp" : "2019-11-19T14:23:20",
+      "Temperature" : 29.80,
+      "Dissolved Oxygen" : 4.008901,
+      "Oxygen Saturation" : 58.64,
+      "Salinity" : 23.55,
+      "Total Dissolved Solids" :  25.99,
+      "Depth" : 5.8
+    }
+  ]
+}
